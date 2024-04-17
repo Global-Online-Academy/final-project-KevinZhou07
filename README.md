@@ -10,7 +10,9 @@ THANK YOU FOR A GREAT SEMESTER! :)
 
 Student-Kevin Zhou's Note:
 
-In this repository are the codes I have for my final project, the file titled nba.py reads data from a csv file which is data taken from a real nba season that has all of the statistics of the individual teams in the league. The code then takes the data and uses it to generate visualization. The file titled simulatedNBA.py is similar to the code I have before it but instead of using real data, it creates simulated data for each of the teams and creates simulated seasons of the NBA, it then takes the data created from the simulations and puts in in a data file called simulatedseasons.txt, after that, the code will generate visualizations for the simulated season. Please enjoy!
+In this repository are the codes I have for my final project, the file titled nba.py, my main code, reads data from a csv file which is data taken from a real nba season that has all of the statistics of the individual teams in the league. The code then takes the data and uses it to generate visualization. The file titled simulatedNBA.py is similar to the code I have before it but instead of using real data, it creates simulated data for each of the teams and creates simulated seasons of the NBA, it then takes the data created from the simulations and puts in in a data file called simulatedseasons.txt, after that, the code will generate visualizations for the simulated season. Please enjoy!
+
+*NOTE: THE CODE simulatedNBA.py was a code I decided to write for fun*
 
 ---
 
